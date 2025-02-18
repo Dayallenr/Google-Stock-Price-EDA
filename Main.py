@@ -4,6 +4,8 @@ import numpy as np
 
 
 google = pd.read_csv('/Users/dayallenragunathan/Downloads/googl_data_2020_2025.csv')
+
+
 print(google.duplicated().sum())
 print(google.isna().sum())
 
