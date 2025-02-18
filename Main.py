@@ -92,7 +92,3 @@ plt.title('Google Stock Price over Time')
 plt.legend()
 
 plt.show()
-
-
-#hello there
-#test
